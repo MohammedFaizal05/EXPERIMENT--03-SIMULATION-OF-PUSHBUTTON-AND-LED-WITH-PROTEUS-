@@ -1,5 +1,9 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 
+## NAME: MOHAMMED FAIZAL J
+
+## REGISTER NUMBER: 212222100027
+
 ## Aim: 
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 
